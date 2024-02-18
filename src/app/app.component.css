@@ -1,0 +1,12 @@
+.content {
+    margin-top: 0;
+    text-align: end;
+}
+table, th, td{
+    /* border: 1px solid black; */
+    padding: 0px;
+}
+
+button {
+    padding: 10px;
+}
